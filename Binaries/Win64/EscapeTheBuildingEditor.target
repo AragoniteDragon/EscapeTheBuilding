@@ -17,15 +17,15 @@
 	"BuildProducts" :
 	[
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-EscapeTheBuilding-4230.dll",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-EscapeTheBuilding-3634.dll",
 			"Type" : "DynamicLibrary"
 		},
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-EscapeTheBuilding-4230.pdb",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-EscapeTheBuilding-3634.pdb",
 			"Type" : "SymbolFile"
 		},
 		{
-			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-EscapeTheBuilding-4230.lib",
+			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-EscapeTheBuilding-3634.lib",
 			"Type" : "ImportLibrary"
 		},
 		{
